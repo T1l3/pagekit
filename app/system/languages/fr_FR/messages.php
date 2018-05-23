@@ -312,7 +312,7 @@
   '%d  GB' => '%d Go',
   '{1} %count% Widget selected|]1,Inf[ %count% Widgets selected' => '{1} %count% Widget sélectionné|]1,Inf[ %count% Widgets sélectionnés',
   'Invalid password.' => 'Mot de passe incorrect.',
-  'Edit %type%' => 'Modifier le %type%',
+  'Edit %type%' => 'Modifier - %type%',
   'From Email' => 'Courriel émetteur',
   'Put the site offline and show the offline message.' => 'Mettre le site hors-ligne avec un message d\'information.',
   'Cannot connect to the marketplace. Please try again later.' => 'Impossible de se connecter au marketplace. Veuillez essayer ultérieurement.',
